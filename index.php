@@ -12,4 +12,4 @@ echo 'All rights!!!';
 
 echo "Please select number of dices";
 
-echo 'я еще немного поработал над файлом';
+echo 'я еще немного поработал над файлом --- еще покодил';
