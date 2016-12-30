@@ -7,7 +7,7 @@
  */
 echo "Hello world !";
 
-
+echo 'All rights!!!'
 //Комментарий добавлен в эту строку СУКА!!
 
 echo "Please select number of dices";
