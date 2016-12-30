@@ -11,3 +11,5 @@ echo 'All rights!!!';
 //Комментарий добавлен в эту строку СУКА!!
 
 echo "Please select number of dices";
+
+echo 'я еще немного поработал над файлом';
