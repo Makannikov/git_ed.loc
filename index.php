@@ -8,4 +8,6 @@
 echo "Hello world !";
 
 
+//Комментарий добавлен в эту строку СУКА!!
+
 echo "Please select number of dices";
